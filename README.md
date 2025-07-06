@@ -92,7 +92,7 @@ Amarjeet Kumar Shah
 
 ### ✅ To Use It:
 1. Copy the entire content above into your `README.md` file in the repo.
-2. Add **screenshots** in a `screenshots/` folder (optional).
+2. Add **screenshots** in a `screenshots/` folder.
 3. Replace `amarjeetkumarshah.it26@gamil.com` and Mongo URI instructions with your actual credentials or safer alternatives (like environment variable management guides).
 4. Push it to your GitHub repo.
 

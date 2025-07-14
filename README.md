@@ -8,7 +8,39 @@ A full-featured **Service Desk Ticketing System** built using the **MERN Stack (
 
 ---
 
-## 📌 Features
+# 🎯 Project Objective
+
+To develop a full-featured Service Desk Application that enables users to register, log in, and create/manage support tickets with a seamless and responsive user experience. Built using a MERN-inspired stack, the application emphasizes secure authentication (JWT), effective ticket workflows, and an intuitive interface for efficient issue tracking and resolution. The solution streamlines internal or customer-facing support processes.
+
+---
+
+# 🚀 Project Features
+
+User Registration & Authentication
+Secure sign‑up, login, and authenticated sessions through JWT tokens to protect user-specific data.
+
+Ticket Management
+CRUD capabilities:
+
+Create, list, and view your tickets
+
+Edit ticket details
+
+Mark tickets as open, in-progress, or resolved
+
+Notes & Comments
+Add comments or internal notes to each ticket, enabling threaded conversation or action logs.
+
+Role-Based Access Control
+Only authenticated users can perform ticket operations, ensuring proper access and data privacy.
+
+Responsive UI/UX
+A modern, mobile-friendly frontend built with React and CSS, including loading spinners for better user feedback.
+
+Global Error Handling
+Centralized error management ensures that API failures or validation issues are caught and displayed gracefully.
+
+## 📌 In Short :- 
 
 - 🔐 **User Authentication & Role Management** (Admin, Agent, Customer)
 - 📝 **Create, View, Update & Close Tickets**
